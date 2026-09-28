@@ -1,0 +1,2 @@
+Repository: https://github.com/TMKulkarnis/assignment2-cuda-batch-image-filter
+The source is CUDA 11.8 compatible and must be run in the course CUDA lab to populate measured GPU timing values in results.csv.
